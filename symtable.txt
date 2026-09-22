@@ -1,0 +1,13 @@
++---------+------+---------+-----------+--------+-------+
+| Sl. No. | Name | Id Type | Data Type | Scope  | Value |
++---------+------+---------+-----------+--------+-------+
+| 1       | x1   | var     | float     | global | 3.125 |
+| 2       | f1   | func    | double    | global |       |
+| 3       | a    | var     | float     | f1     |       |
+| 4       | x    | var     | int       | f1     |       |
+| 5       | z    | var     | double    | f1     | 0.01  |
+| 6       | main | func    | int       | global |       |
+| 7       | n1   | var     | int       | main   | 25    |
+| 8       | z    | var     | double    | main   |       |
+| 9       | i    | var     | int       | main   | 0     |
++---------+------+---------+-----------+--------+-------+
